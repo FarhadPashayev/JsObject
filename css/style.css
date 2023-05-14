@@ -27,6 +27,7 @@
     text-align: center;
     width: 400px;
     height: 250px;
+    position: absolute;
 }
 .right_container{
     width: 60%;
@@ -55,4 +56,13 @@
     
     
 
+}
+
+#submit_product{
+    margin-left: 170px;
+    margin-top: 200px;
+    width: 70px;
+    height: auto;
+    position: relative;
+    background-color: chartreuse;
 }
